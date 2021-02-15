@@ -1,0 +1,25 @@
+{
+  "name": "site_real_time",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarlanNoetzold/site_real_time.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DarlanNoetzold/site_real_time/issues"
+  },
+  "homepage": "https://github.com/DarlanNoetzold/site_real_time#readme",
+  "dependencies": {
+    "next": "^10.0.6",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
