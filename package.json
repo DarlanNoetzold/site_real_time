@@ -1,30 +1,18 @@
 {
-  "name": "site_real_time",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "name": "with-tailwindcss",
+  "version": "0.1.0",
+  "private": true,
   "scripts": {
-    "dev": "next dev"
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/DarlanNoetzold/site_real_time.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/DarlanNoetzold/site_real_time/issues"
-  },
-  "homepage": "https://github.com/DarlanNoetzold/site_real_time#readme",
   "dependencies": {
-    "next": "^10.0.6",
+    "next": "latest",
     "react": "^17.0.1",
-    "react-dom": "^17.0.1"
-  },
-  "devDependencies": {
-    "autoprefixer": "^10.2.4",
-    "postcss": "^8.2.6",
-    "tailwindcss": "^2.0.3"
+    "react-dom": "^17.0.1",
+    "autoprefixer": "^10.0.4",
+    "postcss": "^8.1.10",
+    "tailwindcss": "^2.0.2"
   }
 }
